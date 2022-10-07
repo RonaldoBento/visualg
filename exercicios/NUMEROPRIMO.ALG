@@ -25,13 +25,13 @@ inicio
    repita
       Se (N % C = 0) entao
          ContDiv <- ContDiv + 1
-      FimSe
+      fimSe
       C <- C + 1
-   Ate (C > N)
-   Se (ContDiv > 2) entao
-      EscrevaL (" O valor ", N, " Não é Primo!")
+   ate (C > N)
+   se (ContDiv > 2) entao
+      escrevaL (" O valor ", N, " Não é Primo!")
    senao
-      EscrevaL (" O valor ", N, " é Primo!")
-   FimSe
+      escrevaL (" O valor ", N, " é Primo!")
+   fimSe
    
 fimalgoritmo

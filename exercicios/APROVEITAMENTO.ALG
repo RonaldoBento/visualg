@@ -1,4 +1,4 @@
-Algoritmo "Aproveitamento"
+Algoritmo "Aproveitamento do Aluno"
 // Disciplina   : [Linguagem e Lógica de Programação]
 // Professor   : Antonio Carlos Nicolodi 
 // Descrição   : Algoritmo que mostra a média e o aproveitamento do
@@ -14,7 +14,7 @@ Inicio
 
       mudaCor("amarelo","frente")
       escrevaL("-----------------------------")
-      escrevaL(" ESCOLA CANSADO DE SÓ FALAR ")
+      escrevaL(" ESCOLA CANSADO SÓ DE FALAR ")
       escrevaL("-----------------------------")
       escreval("")
       escreva(" Informe a 1º Nota do Aluno: ")
